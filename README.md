@@ -1,40 +1,81 @@
-<h1>Hi, I'm Saikishan! 
+# 👨‍💼 Sai Kishan Tanguturi – Data Analyst Portfolio
 
-<h2>📺 About Myself </h2>
+🔗 [LinkedIn](https://www.linkedin.com/in/saikishans) | 📧 kishansaims@gmail.com | 📍 Hyderabad, India
 
-- [Video Profile] (https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- 
-<h2>👨‍💻 Data Analytics Projects:</h2>
+---
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+## 🧠 About Me
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+I am a **Data Analyst with 2+ years of experience** in transforming unstructured political and public domain data into actionable insights. I've contributed to **data-driven electoral wins**, optimized operations, and enforced data quality standards at scale. I'm passionate about turning raw data into powerful narratives that drive decision-making and real-world impact.
 
-<h2>👨‍💻 Certifications:</h2>
+---
 
-- <b> Microsoft Certified Power BI Associate
+## 🛠️ Skills
 
-<h2> 🤳 Connect with me:</h2>
+- **Languages & Tools**: SQL (Joins, CTEs, Subqueries), Microsoft Excel (Power Query, Lookups, Pivot), Power BI
+- **Techniques**: ETL, EDA, KPI Tracking, Compliance Monitoring, Root Cause Analysis
+- **Soft Skills**: Stakeholder Communication, Team Leadership, Problem Solving
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-[youtube]: https://www.youtube.com/c/joshmadakor
-[linkedin]: https://linkedin.com/in/joshmadakor
+## 📊 Portfolio Projects
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🗳️ 1. Andhra Pradesh Elections 2024 – Voter Sentiment Analysis
+- **Goal**: Increase vote margin using data-driven campaign strategies.
+- **Outcome**: Helped boost vote margin by **5%**, aiding in party victory.
+- **Tools Used**: Excel, Power BI, SQL
+- **Highlights**: Field-level data auditing, KPI dashboards, risk identification.
+- 🔗 *[Project Link Coming Soon]*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📍 2. Karnataka BBMP Elections – Campaign Cost Optimization
+- **Goal**: Reduce venue and campaign costs while increasing event turnout.
+- **Outcome**: Achieved **10% cost reduction**, **20% higher event attendance**.
+- **Tools Used**: Excel, SQL
+- **Highlights**: Event site selection analytics, error reduction in voter data.
+
+---
+
+### 🧹 3. Field Data Quality Assurance System
+- **Goal**: Enforce 100% compliance with data quality benchmarks.
+- **Outcome**: **Reduced strategic errors by 40%** through QA protocols.
+- **Tools Used**: Power BI, Excel
+- **Highlights**: Created real-time validation trackers and audit workflows.
+
+---
+
+### 🧭 4. Bharat Jodo Yatra – Route & Resource Optimization
+- **Goal**: Minimize logistics cost using data from Google Maps and local insights.
+- **Outcome**: **15% drop in mobilization costs** while maintaining outreach.
+- **Tools Used**: Google Maps, Excel
+- **Highlights**: Route heatmaps, volunteer path planning.
+
+---
+
+## 📜 Certifications
+
+- 🥈 **SQL – Silver Badge**, HackerRank
+- 🟢 **Advanced Excel**, CodeBasics
+- 🟣 **Power BI Bootcamp**, UpGrad
+- 🟡 **SQL Bootcamp**, UpGrad
+
+---
+
+## 🔍 Looking to Collaborate On
+
+- 🎯 Public Policy & Electoral Data Projects
+- 📈 Impact Dashboards for NGOs or Political Startups
+- 📚 Data-Driven Storytelling for Social Impact
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: kishansaims@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/saikishans)
+- 🌐 Location: Hyderabad, India
+
+---
+
+> _“Data beats opinion.” – Jeff Weiner_
