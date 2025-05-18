@@ -1,4 +1,4 @@
-# 👨‍💼 Sai Kishan Tanguturi – Data Analyst Portfolio
+# Sai Kishan Tanguturi – Data Analyst Portfolio
 
 🔗 [LinkedIn](https://www.linkedin.com/in/saikishans) | 📧 kishansaims@gmail.com | 📍 Hyderabad, India
 
